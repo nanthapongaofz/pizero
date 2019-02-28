@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1551268237,,"wq"
+|2,0,1551325905,,"wq"
 :q!
 |2,0,1551267760,,"q!"
 :q
@@ -75,46 +75,68 @@
 	
 |3,0,10,1,1,0,1551242256,""
 ""-	CHAR	0
-	2
-|3,1,36,0,1,0,1551268215,"2"
+	_
+|3,1,36,0,1,0,1551325828,"_"
 
 # File marks:
-'0  6  24  ~/DigooBluetooth/bscan.py
-|4,48,6,24,1551268237,"~/DigooBluetooth/bscan.py"
-'1  47  7  ~/bt.py
-|4,49,47,7,1551267760,"~/bt.py"
-'2  53  0  ~/bt.py
-|4,50,53,0,1551266676,"~/bt.py"
-'3  55  0  ~/bt.py
-|4,51,55,0,1551266676,"~/bt.py"
-'4  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
-|4,52,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
-'5  1  0  ~/mitemp/requirements.txt
-|4,53,1,0,1551266192,"~/mitemp/requirements.txt"
-'6  1  0  ~/mitemp/requirements
-|4,54,1,0,1551266184,"~/mitemp/requirements"
-'7  25  4  ~/mitemp/demo.py
-|4,55,25,4,1551266158,"~/mitemp/demo.py"
+'0  5  10  ~/README.md
+|4,48,5,10,1551325905,"~/README.md"
+'1  6  24  ~/DigooBluetooth/bscan.py
+|4,49,6,24,1551268237,"~/DigooBluetooth/bscan.py"
+'2  47  7  ~/bt.py
+|4,50,47,7,1551267760,"~/bt.py"
+'3  53  0  ~/bt.py
+|4,51,53,0,1551266676,"~/bt.py"
+'4  55  0  ~/bt.py
+|4,52,55,0,1551266676,"~/bt.py"
+'5  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,53,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+'6  1  0  ~/mitemp/requirements.txt
+|4,54,1,0,1551266192,"~/mitemp/requirements.txt"
+'7  1  0  ~/mitemp/requirements
+|4,55,1,0,1551266184,"~/mitemp/requirements"
 '8  25  4  ~/mitemp/demo.py
-|4,56,25,4,1551266132,"~/mitemp/demo.py"
-'9  25  10  ~/mitemp/demo.py
-|4,57,25,10,1551266095,"~/mitemp/demo.py"
+|4,56,25,4,1551266158,"~/mitemp/demo.py"
+'9  25  4  ~/mitemp/demo.py
+|4,57,25,4,1551266132,"~/mitemp/demo.py"
 
 # Jumplist (newest first):
+-'  5  10  ~/README.md
+|4,39,5,10,1551325905,"~/README.md"
+-'  1  0  ~/README.md
+|4,39,1,0,1551325818,"~/README.md"
+-'  6  24  ~/DigooBluetooth/bscan.py
+|4,39,6,24,1551268237,"~/DigooBluetooth/bscan.py"
 -'  6  24  ~/DigooBluetooth/bscan.py
 |4,39,6,24,1551268237,"~/DigooBluetooth/bscan.py"
 -'  107  3  ~/DigooBluetooth/bscan.py
 |4,39,107,3,1551268153,"~/DigooBluetooth/bscan.py"
+-'  107  3  ~/DigooBluetooth/bscan.py
+|4,39,107,3,1551268153,"~/DigooBluetooth/bscan.py"
+-'  1  0  ~/DigooBluetooth/bscan.py
+|4,39,1,0,1551268093,"~/DigooBluetooth/bscan.py"
 -'  1  0  ~/DigooBluetooth/bscan.py
 |4,39,1,0,1551268093,"~/DigooBluetooth/bscan.py"
 -'  47  7  ~/bt.py
 |4,39,47,7,1551267760,"~/bt.py"
 -'  47  7  ~/bt.py
 |4,39,47,7,1551267760,"~/bt.py"
+-'  47  7  ~/bt.py
+|4,39,47,7,1551267760,"~/bt.py"
+-'  47  7  ~/bt.py
+|4,39,47,7,1551267760,"~/bt.py"
 -'  45  21  ~/bt.py
 |4,39,45,21,1551267465,"~/bt.py"
 -'  45  21  ~/bt.py
 |4,39,45,21,1551267465,"~/bt.py"
+-'  45  21  ~/bt.py
+|4,39,45,21,1551267465,"~/bt.py"
+-'  45  21  ~/bt.py
+|4,39,45,21,1551267465,"~/bt.py"
+-'  1  0  ~/bt.py
+|4,39,1,0,1551266699,"~/bt.py"
+-'  1  0  ~/bt.py
+|4,39,1,0,1551266699,"~/bt.py"
 -'  1  0  ~/bt.py
 |4,39,1,0,1551266699,"~/bt.py"
 -'  1  0  ~/bt.py
@@ -127,6 +149,18 @@
 |4,39,53,0,1551266676,"~/bt.py"
 -'  55  0  ~/bt.py
 |4,39,55,0,1551266676,"~/bt.py"
+-'  53  0  ~/bt.py
+|4,39,53,0,1551266676,"~/bt.py"
+-'  55  0  ~/bt.py
+|4,39,55,0,1551266676,"~/bt.py"
+-'  53  0  ~/bt.py
+|4,39,53,0,1551266676,"~/bt.py"
+-'  55  0  ~/bt.py
+|4,39,55,0,1551266676,"~/bt.py"
+-'  1  0  ~/bt.py
+|4,39,1,0,1551266652,"~/bt.py"
+-'  1  0  ~/bt.py
+|4,39,1,0,1551266652,"~/bt.py"
 -'  1  0  ~/bt.py
 |4,39,1,0,1551266652,"~/bt.py"
 -'  1  0  ~/bt.py
@@ -147,6 +181,38 @@
 |4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
 -'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
 |4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  12  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,12,0,1551266223,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
+-'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
+|4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
 -'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
 |4,39,1,0,1551266202,"~/mitemp/mitemp_bt/mitemp_bt_poller.py"
 -'  1  0  ~/mitemp/mitemp_bt/mitemp_bt_poller.py
@@ -195,6 +261,38 @@
 |4,39,1,0,1551266192,"~/mitemp/requirements.txt"
 -'  1  0  ~/mitemp/requirements.txt
 |4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
+-'  1  0  ~/mitemp/requirements.txt
+|4,39,1,0,1551266192,"~/mitemp/requirements.txt"
 -'  1  0  ~/mitemp/requirements
 |4,39,1,0,1551266184,"~/mitemp/requirements"
 -'  1  0  ~/mitemp/requirements
@@ -203,106 +301,18 @@
 |4,39,1,0,1551266184,"~/mitemp/requirements"
 -'  1  0  ~/mitemp/requirements
 |4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  1  0  ~/mitemp/requirements
-|4,39,1,0,1551266184,"~/mitemp/requirements"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
--'  25  4  ~/mitemp/demo.py
-|4,39,25,4,1551266158,"~/mitemp/demo.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/README.md
+	*	1551325904	0
+	"	5	10
+	^	5	11
+	.	5	10
+	+	1	9
+	+	3	18
+	+	4	14
+	+	5	10
 
 > ~/DigooBluetooth/bscan.py
 	*	1551268235	0
